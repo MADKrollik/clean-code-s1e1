@@ -41,7 +41,7 @@
 .task-label {
   width: 56%;
   display: inline-block;
-  flex-grow: 1
+  flex-grow: 1;
 }
 
 .task-row-wrapper {
@@ -146,7 +146,7 @@ input, .button{
 }
 
 tasks > .task {
-  width: 226px
+  width: 226px;
 }
 
 .button-delete .remove-img {
@@ -161,7 +161,7 @@ tasks > .task {
 
 /* Completed */
 ul#completed-tasks label {
-  text-decoration: line-through
+  text-decoration: line-through;
   color: #888;
 }
 
