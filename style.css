@@ -16,7 +16,7 @@
   width: 100%;
 }
 
-.header .header-link {
+.header.header-link {
   font-family: fantasy, cursive;
 }
 
@@ -53,11 +53,13 @@ ul {
   padding: 0px;
 }
 
-li, h3 {
+li,
+h3 {
   list-style: none;
 }
 
-input, .button{
+input,
+.button{
   outline: none;
 }
 
