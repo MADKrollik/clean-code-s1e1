@@ -117,10 +117,6 @@ input,
 
 /* New Task */
 
-#new-task {
-  width: 318px;
-}
-
 /* Task list */
 
 .tasks {
@@ -162,7 +158,7 @@ tasks > .task {
 }
 
 /* Completed */
-ul#completed-tasks label {
+.tasks-completed .task-label {
   text-decoration: line-through;
   color: #888;
 }
